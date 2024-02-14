@@ -3,7 +3,7 @@ import axios from 'axios';
 import './styles.css'
 
 const News = () => {
-    const key = 'c9a0a130f49844e78381f85cbd6b2413';
+    const key = 'YOUR API KEY';
     const [news, setNews] = useState([]);
     const [input, setInput] = useState("");
     const [loading, setLoading] = useState(false);
