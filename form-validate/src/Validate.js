@@ -55,7 +55,7 @@ export default function Validate() {
     <div className="container">
       <form className="form-container">
         <div className="input-container">
-            <h2>Meta</h2>
+            <h2>Form</h2>
           <input
             type="text"
             placeholder="Name"
